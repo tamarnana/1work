@@ -2,3 +2,5 @@ this is a trial
 now try pull 
 successful
 after changes again
+ask etti why changes from my pc changing in web site just after 3 steps: add file + commit + push
+also - why is the commit has to be with -m 
