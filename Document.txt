@@ -1,6 +1,3 @@
-this is a trial
-now try pull 
-successful
-after changes again
-ask etti why changes from my pc changing in web site just after 3 steps: add file + commit + push
+questions:
+why changes from my pc is changing in web site just after 3 steps: add file + commit + push (remember from lesson  it was without add file)
 also - why is the commit has to be with -m 
